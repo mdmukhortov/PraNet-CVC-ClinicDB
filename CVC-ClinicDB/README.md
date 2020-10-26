@@ -1,0 +1,1 @@
+An example of [CVC-ClinicDB dataset](https://polyp.grand-challenge.org/CVCClinicDB/) for Image Segmentation task.
